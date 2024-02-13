@@ -5,6 +5,7 @@
      public A() 
         {
             Console.WriteLine("---Multilevel inheritance----");
+            console.WriteLine();
         }
       public void fun1()
         {

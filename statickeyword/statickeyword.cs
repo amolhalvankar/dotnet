@@ -12,7 +12,7 @@
         statickeyword s1 = new statickeyword();
         statickeyword s2 = new statickeyword(); 
 
-        s1.add();
+        s1.add();        
         s2.add();
 
         Console.ReadLine();
