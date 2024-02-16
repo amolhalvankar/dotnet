@@ -71,27 +71,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exceptionHandling4", "excep
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Collection", "Collection", "{8AE8F074-E4A9-4092-8819-8081B3A2614C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "list", "list\list.csproj", "{5023556B-5B01-41DB-BCD4-B0DEFE14D349}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "list", "list\list.csproj", "{5023556B-5B01-41DB-BCD4-B0DEFE14D349}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stack", "stack\stack.csproj", "{35B02E1E-31B7-4D83-B586-E4EFE07F9102}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "stack", "stack\stack.csproj", "{35B02E1E-31B7-4D83-B586-E4EFE07F9102}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "queue", "queue\queue.csproj", "{7055A2EA-AAE1-4D83-8507-4F1E4E9B5562}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "queue", "queue\queue.csproj", "{7055A2EA-AAE1-4D83-8507-4F1E4E9B5562}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exception_Handling", "Exception_Handling", "{EF21F3AA-91C0-4CEB-BD53-2EAAC59B808A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Loops", "Loops", "{77288939-1CBD-4291-9879-3A9F69BEF69E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hashset", "hashset\hashset.csproj", "{273F1916-E035-468A-BFDE-9A0F7E9F49B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hashset", "hashset\hashset.csproj", "{273F1916-E035-468A-BFDE-9A0F7E9F49B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orderedhashset", "orderedhashset\orderedhashset.csproj", "{52B2E9BC-5529-42B8-90F0-E316804E2E26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "orderedhashset", "orderedhashset\orderedhashset.csproj", "{52B2E9BC-5529-42B8-90F0-E316804E2E26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linkedlist", "linkedlist\linkedlist.csproj", "{5BA0050B-9F20-4549-8EE3-84D4BE99DA58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "linkedlist", "linkedlist\linkedlist.csproj", "{5BA0050B-9F20-4549-8EE3-84D4BE99DA58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dictionary", "dictionary\dictionary.csproj", "{59424B97-AF83-427B-AD25-FF15B49FD6FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dictionary", "dictionary\dictionary.csproj", "{59424B97-AF83-427B-AD25-FF15B49FD6FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sorteddictionary", "sorteddictionary\sorteddictionary.csproj", "{D15334A7-8B36-46F2-A47C-87D3C979C39E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sorteddictionary", "sorteddictionary\sorteddictionary.csproj", "{D15334A7-8B36-46F2-A47C-87D3C979C39E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sortedlist", "sortedlist\sortedlist.csproj", "{020423C3-B5EE-4240-8DF9-6386264DF1CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sortedlist", "sortedlist\sortedlist.csproj", "{020423C3-B5EE-4240-8DF9-6386264DF1CE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "List_", "List_", "{103CA575-4611-46B6-BECD-81450F11C767}"
 EndProject
