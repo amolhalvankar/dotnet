@@ -2,12 +2,12 @@
 {
     public void myfun(out int i)
     {
-        i = 5;
+        i = 10;
         i = i + 5;
     }
     private static void Main(string[] args)
     {
-        int i = 6;
+        int i = 5;
         outpram obj = new outpram();
         Console.WriteLine("Before calling the function :"+i);
         obj.myfun(out i);
